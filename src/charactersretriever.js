@@ -25,3 +25,5 @@ async function getData() {
         console.error(err);
     }
 }
+
+export { tpl, target, getData }

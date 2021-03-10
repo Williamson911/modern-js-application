@@ -19,14 +19,4 @@ function delData() {
 
 }
 
-function updateData() {
-    Array.from(document.querySelector("editHero")).forEach((btn, index) => {
-        btn.addEventListener("click", () => {
-
-        })
-    });
-}
-
-document.querySelector("#edit").addEventListener("click", () => {
-
-})
+export { delData }
