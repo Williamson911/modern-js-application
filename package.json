@@ -12,6 +12,20 @@
     "startbootstrap-heroic-features": "^4.2.3"
   },
   "devDependencies": {
+    "parcel-bundler": "^1.12.4",
     "seve": "^0.10.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Williamson911/modern-js-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Williamson911/modern-js-application/issues"
+  },
+  "homepage": "https://github.com/Williamson911/modern-js-application#readme"
 }
