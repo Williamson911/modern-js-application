@@ -12,7 +12,9 @@
     "startbootstrap-heroic-features": "^4.2.3"
   },
   "devDependencies": {
+    "eslint": "^7.21.0",
     "parcel-bundler": "^1.12.4",
+    "prettier": "2.2.1",
     "seve": "^0.10.0"
   },
   "description": "",
